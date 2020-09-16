@@ -27,5 +27,7 @@ Eclipseをダウンロードするために、[ここ]をクリックしてダ�
 ![image12](https://user-images.githubusercontent.com/57954776/93303835-06407a00-f837-11ea-83d8-312b3379e5af.png)  
 
 ダウンロードが終了したら、ダウンロードしたファイルをクリックして、Eclipseを起動します。  
-Windowsで開く場合は7-zipで解凍してください。7-zipをダウンロードしていない場合、[このサイト]を見ながらダウンロードして下さい.  
-[このサイト]:https://itojisan.xyz
+Windowsで開く場合は7-zipで解凍してください。7-zipをダウンロードしていない場合、
+[これ]を見ながらダウンロードして下さい. 
+
+[これ]:https://itojisan.xyz/

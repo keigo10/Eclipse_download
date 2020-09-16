@@ -118,12 +118,57 @@ Gitのような変更履歴(バージョン)を管理するシステムは、こ
 
 [A5:SQL Mk-2]:https://a5m2.mmatsubara.com/
 
-<img src="https://user-images.githubusercontent.com/57954776/93317081-fc734280-f847-11ea-925d-6cf0c710397e.png" width="600px" >
+<img src="https://user-images.githubusercontent.com/57954776/93318857-2594d280-f84a-11ea-9ebd-77964c093798.png" width="600px" >
 
 MySQLのインストール
 MySQLをダウンロードしていない方はここ（https://webkaru.net/mysql/install-windows/
-）を見ながらインストールをしてください。
-
-<img src="https://user-images.githubusercontent.com/57954776/93317081-fc734280-f847-11ea-925d-6cf0c710397e.png" width="600px" >
-
+）を見ながらインストールをしてください。  
 ※この記事はMySQLのバージョンが古いため、少し違った内容のものもございます。調べながらインストールを行い、それでもわからないときは周りの人に聞きましょう。
+
+## A5:SQL Mk-2をMySQL serverに接続する  
+  
+  A5:SQL Mk-2 は MySQL Server に接続する際に、MySQL ClientがクライアントPC（A5:SQL Mk-2のインストールされているPC）にインストールされている必要はありません。
+
+　A5:SQL Mk-2 は MySQL Server に対してMySQLのクライアントライブラリを利用せず直接接続します。クライアントライブラリを経由した接続はGPLの問題からサポートしません。
+
+　この説明で使ったソフトウェアのバージョンは以下のとおりです。
+
+MySQL 5.0.51a-community-nt
+A5:SQL Mk-2から「データベースの追加と削除」スピードボタンを押下します。
+
+<img src="https://user-images.githubusercontent.com/57954776/93318963-45c49180-f84a-11ea-9b46-24a338788e68.png" width="600px" >   
+
+データベースの追加と削除ダイアログで、「追加」ボタンを押下します。  
+
+<img src="https://user-images.githubusercontent.com/57954776/93319058-6391f680-f84a-11ea-8ff8-e8a37a2575d2.png" width="600px" > 
+
+「MySQL (直接接続)」ボタンを押下します。  
+
+<img src="https://user-images.githubusercontent.com/57954776/93319169-83c1b580-f84a-11ea-9047-18c8a388cab8.png" width="600px" >  
+
+ホスト名・ポート番号・ユーザーID・パスワード・データベースを入力します。   
+必要に応じて「パスワードを保存する」にチェックを入れます。  
+「データ交換に Unicode を利用する」・「メタデータ（テーブル名・カラム名・コメント）取得に Unicode を利用する」は文字化け等問題が発生する場合のみ変更して下さい。  
+全て入力したら、「OK」をクリックします。  
+
+<img src="https://user-images.githubusercontent.com/57954776/93319272-a358de00-f84a-11ea-824a-7dfd9bc5a1e9.png" width="600px" >  
+
+データベース別名（A5:SQL Mk-2の中でデータベースを一意に識別する名前）を入力し、「OK」を押下します。
+
+<img src="https://user-images.githubusercontent.com/57954776/93319468-dac78a80-f84a-11ea-8a33-955eca473bc1.png" width="600px" >  
+
+「閉じる」を押下します。  
+
+<img src="https://user-images.githubusercontent.com/57954776/93319553-f6cb2c00-f84a-11ea-87f3-59d9237cfb0e.png" width="600px" >  
+
+データベースツリーから登録したデータベースをダブルクリックして接続します。
+
+<img src="https://user-images.githubusercontent.com/57954776/93319596-05b1de80-f84b-11ea-8ec1-43083268f5d2.png" width="600px" >  
+
+ユーザーIDとパスワードを指定し、「OK」を押下して接続します。
+
+<img src="https://user-images.githubusercontent.com/57954776/93319667-1c583580-f84b-11ea-898d-d12892769314.png" width="600px" >   
+
+次のようになれば接続成功です。
+
+<img src="https://user-images.githubusercontent.com/57954776/93319751-33972300-f84b-11ea-8577-0077f06f5147.png" width="600px" >   

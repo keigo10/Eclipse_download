@@ -23,3 +23,9 @@ Eclipseをダウンロードするために、[ここ]をクリックしてダ�
 
 続いて、「Java Full Edition」をダウンロードしてください。
 なお、Full EditionにはJavaが内蔵されています。手っ取り早く作業を始めるにはFull Editionが便利です。
+
+![image12](https://user-images.githubusercontent.com/57954776/93303835-06407a00-f837-11ea-83d8-312b3379e5af.png)  
+
+ダウンロードが終了したら、ダウンロードしたファイルをクリックして、Eclipseを起動します。  
+Windowsで開く場合は7-zipで解凍してください。7-zipをダウンロードしていない場合、[このサイト]を見ながらダウンロードして下さい.  
+[このサイト]:https://itojisan.xyz

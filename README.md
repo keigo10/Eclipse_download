@@ -84,3 +84,7 @@ Gitのような変更履歴(バージョン)を管理するシステムは、こ
 [EGit]:https://www.eclipse.org/egit/  
   
 右上の「追加」を押し、名前に「EGit」、ロケーションに「`http://download.eclipse.org/egit/updates`」を入力し「追加」を押します。  
+
+
+
+一覧が表示されるので、すべてチェックを入れて「次へ」を押します。

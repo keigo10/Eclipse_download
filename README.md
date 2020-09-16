@@ -92,4 +92,10 @@ Gitのような変更履歴(バージョン)を管理するシステムは、こ
   
   <img src="https://user-images.githubusercontent.com/57954776/93316347-08123980-f847-11ea-9879-fc61c6f457d0.png" width="400px" >
 
-インストールするものの一覧が出るのでそのまま「次へ」を押します。
+インストールするものの一覧が出るのでそのまま「次へ」を押します。  
+  
+  <img src="https://user-images.githubusercontent.com/57954776/93316761-94246100-f847-11ea-80e9-d6afeb632c90.png" width="400px" >
+
+利用規約に同意し「完了」を押すとインストールが実行されます。  
+
+

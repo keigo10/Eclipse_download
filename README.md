@@ -88,5 +88,8 @@ Gitのような変更履歴(バージョン)を管理するシステムは、こ
 
 <img src="https://user-images.githubusercontent.com/57954776/93315781-6a1e6f00-f846-11ea-9ca1-d6b3da0407ed.png" width="400px" > 
 
-一覧が表示されるので、すべてチェックを入れて「次へ」を押します。
+一覧が表示されるので、すべてチェックを入れて「次へ」を押します。  
+  
+  <img src="https://user-images.githubusercontent.com/57954776/93316347-08123980-f847-11ea-9879-fc61c6f457d0.png" width="400px" >
 
+インストールするものの一覧が出るのでそのまま「次へ」を押します。

@@ -30,4 +30,6 @@ Eclipseをダウンロードするために、[ここ]をクリックしてダ�
 Windowsで開く場合は7-zipで解凍してください。7-zipをダウンロードしていない場合、
 [これ]を見ながらダウンロードして下さい. 
 
-[これ]:https://itojisan.xyz/
+[これ]:https://itojisan.xyz/  
+
+解凍先したフォルダー内に「eclipse」フォルダーがありますので、その中の「eclipse.exe」を実行するとEclipseが起動します。

@@ -22,3 +22,4 @@ Eclipseをダウンロードするために、[ここ]をクリックしてダ�
 ![image18](https://user-images.githubusercontent.com/57954776/93303112-f4120c00-f835-11ea-88fc-5c15bc2d8b98.png)  
 
 続いて、「Java Full Edition」をダウンロードしてください。
+なお、Full EditionにはJavaが内蔵されています。手っ取り早く作業を始めるにはFull Editionが便利です。

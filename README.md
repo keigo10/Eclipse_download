@@ -42,6 +42,6 @@ Windowsで開く場合は7-zipで解凍してください。7-zipをダウンロ
   
 <img src="https://user-images.githubusercontent.com/57954776/93306556-03478880-f83b-11ea-8138-44c09107448c.png" width="1000px" height="500px">  
   
-## ②EGitを導入する。
+## ②EqlipseでGitを使えるようにする。
 
 ### Gitとは

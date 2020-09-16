@@ -102,3 +102,28 @@ Gitのような変更履歴(バージョン)を管理するシステムは、こ
  <img src="https://user-images.githubusercontent.com/57954776/93317081-fc734280-f847-11ea-925d-6cf0c710397e.png" width="600px" >
 
 しばらくするとEclipseの再起動を促されるので、再起動すればインストール完了です。
+
+
+## ③A5:SQL Mk-2を導入する。
+
+### A5:SQL Mk-2のインストール
+
+「A5:SQL」 とは
+公式サイトには「 高機能かつ軽量な汎用SQL開発ツール」と書かれています。
+本当にその通りで、SQL、データベース回りの開発でやりたいことが
+汎用的になんでもできる、高性能なツールです。
+ ※Windows専用ソフトなのでMacでは使えません。
+
+[A5:SQL Mk-2]をインストール。  
+
+[A5:SQL Mk-2]:https://a5m2.mmatsubara.com/
+
+<img src="https://user-images.githubusercontent.com/57954776/93317081-fc734280-f847-11ea-925d-6cf0c710397e.png" width="600px" >
+
+MySQLのインストール
+MySQLをダウンロードしていない方はここ（https://webkaru.net/mysql/install-windows/
+）を見ながらインストールをしてください。
+
+<img src="https://user-images.githubusercontent.com/57954776/93317081-fc734280-f847-11ea-925d-6cf0c710397e.png" width="600px" >
+
+※この記事はMySQLのバージョンが古いため、少し違った内容のものもございます。調べながらインストールを行い、それでもわからないときは周りの人に聞きましょう。

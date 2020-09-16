@@ -40,7 +40,7 @@ Windowsで開く場合は7-zipで解凍してください。7-zipをダウンロ
 インストーラーを使わない場合は、デスクトップやWindowsのメニューにEclipseのショートカットは作成されませんので、この実行ファイル「eclipse.exe」のショートカットをデスクトップなどに作成しておくと便利です。
 以下のような画面が表示されたら、導入成功です。  
   
-<img src="https://user-images.githubusercontent.com/57954776/93306556-03478880-f83b-11ea-8138-44c09107448c.png" width="900px" height="500px">  
+<img src="https://user-images.githubusercontent.com/57954776/93306556-03478880-f83b-11ea-8138-44c09107448c.png" width="850px" height="500px">  
   
 ## ②EqlipseでGitを使えるようにする。
 

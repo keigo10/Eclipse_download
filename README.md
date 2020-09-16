@@ -81,6 +81,7 @@ Gitのような変更履歴(バージョン)を管理するシステムは、こ
 まずは、EclipseにGitを使うためのプラグイン「[EGit]」をインストールしましょう。  
 「ヘルプ」⇒「新規ソフトウェアのインストール」からインストールウィンドウを開きます。  
 
+<img src="https://user-images.githubusercontent.com/57954776/93313639-b3b98a80-f843-11ea-8f32-d8f2bf4ac20d.png" width="400px" >  
 [EGit]:https://www.eclipse.org/egit/  
   
 右上の「追加」を押し、名前に「EGit」、ロケーションに「`http://download.eclipse.org/egit/updates`」を入力し「追加」を押します。  

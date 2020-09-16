@@ -86,6 +86,7 @@ Gitのような変更履歴(バージョン)を管理するシステムは、こ
   
 右上の「追加」を押し、名前に「EGit」、ロケーションに「`http://download.eclipse.org/egit/updates`」を入力し「追加」を押します。  
 
-<img src="https://user-images.githubusercontent.com/57954776/93313639-b3b98a80-f843-11ea-8f32-d8f2bf4ac20d.png" width="400px" > 
+<img src="https://user-images.githubusercontent.com/57954776/93315781-6a1e6f00-f846-11ea-9ca1-d6b3da0407ed.png" width="400px" > 
 
 一覧が表示されるので、すべてチェックを入れて「次へ」を押します。
+

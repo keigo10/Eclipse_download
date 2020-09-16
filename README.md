@@ -41,4 +41,4 @@ Windowsで開く場合は7-zipで解凍してください。7-zipをダウンロ
 以下のような画面が表示されたら、導入成功です。  
 
 ![image8](https://user-images.githubusercontent.com/57954776/93306556-03478880-f83b-11ea-8138-44c09107448c.png)  
-<img src="https://user-images.githubusercontent.com/57954776/93306556-03478880-f83b-11ea-8138-44c09107448c.png" width="320px">
+<img src="https://user-images.githubusercontent.com/57954776/93306556-03478880-f83b-11ea-8138-44c09107448c.png" width="1000px" height="500px">

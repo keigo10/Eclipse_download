@@ -86,16 +86,18 @@ Gitのような変更履歴(バージョン)を管理するシステムは、こ
   
 右上の「追加」を押し、名前に「EGit」、ロケーションに「`http://download.eclipse.org/egit/updates`」を入力し「追加」を押します。  
 
-<img src="https://user-images.githubusercontent.com/57954776/93315781-6a1e6f00-f846-11ea-9ca1-d6b3da0407ed.png" width="400px" > 
+<img src="https://user-images.githubusercontent.com/57954776/93315781-6a1e6f00-f846-11ea-9ca1-d6b3da0407ed.png" width="600px" > 
 
 一覧が表示されるので、すべてチェックを入れて「次へ」を押します。  
   
-  <img src="https://user-images.githubusercontent.com/57954776/93316347-08123980-f847-11ea-9879-fc61c6f457d0.png" width="400px" >
+  <img src="https://user-images.githubusercontent.com/57954776/93316347-08123980-f847-11ea-9879-fc61c6f457d0.png" width="600px" >
 
 インストールするものの一覧が出るのでそのまま「次へ」を押します。  
   
-  <img src="https://user-images.githubusercontent.com/57954776/93316761-94246100-f847-11ea-80e9-d6afeb632c90.png" width="400px" >
+  <img src="https://user-images.githubusercontent.com/57954776/93316761-94246100-f847-11ea-80e9-d6afeb632c90.png" width="600px" >
 
 利用規約に同意し「完了」を押すとインストールが実行されます。  
 
+ <img src="https://user-images.githubusercontent.com/57954776/93317081-fc734280-f847-11ea-925d-6cf0c710397e.png" width="600px" >
 
+しばらくするとEclipseの再起動を促されるので、再起動すればインストール完了です。
